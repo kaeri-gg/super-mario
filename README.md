@@ -1,6 +1,6 @@
 # Godot 2D Platformer (Learning Project)
 
-> [Play online](https://kaeri-gg.github.io/godot-basics/release/)
+> [Play online](https://kaeri-gg.github.io/super-mario/release)
 
 This is my first **Godot Engine** project, created while learning in the  
 **Basics of Game Development** course for my **MSc in Digital Learning Games** at **Tallinn University (2025)**.  
@@ -63,9 +63,6 @@ Free to use, modify, and distribute.
 ## 🌐 GitHub Pages Deployment
 
 This project is configured for automatic deployment to GitHub Pages. Here's everything you need to know:
-
-### 🚀 **Play the Game Online**
-[**🎮 Play Now on GitHub Pages →**](https://your-username.github.io/godot-basics/)
 
 ### 📋 **Deployment Setup**
 
